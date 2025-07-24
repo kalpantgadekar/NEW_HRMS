@@ -145,5 +145,5 @@ public class AppConfig {
             response.getWriter().write("{\"error\": \"Forbidden - You do not have access to this resource\"}");
         };
     }
-
+}
     
